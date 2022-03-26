@@ -1,2 +1,2 @@
 # Glugman-s-Revenge
-A blog by glugman
+A blog by Glugman
